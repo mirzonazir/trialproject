@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.tableHead, th{
+  text-align: center;
+  font-style: italic;
+  font-size: 25px;
+}
+th, td{
+  font-size: 18px;
+  text-align: center;
+  border-right: 1px solid #e0e0e0;
+  border-top: 1px solid #e0e0e0;
+}
+.active {
+  background-color: #73f373;
+}
